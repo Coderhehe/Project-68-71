@@ -6,3 +6,24 @@ body {
     width: 60%;
     height: 80%
 }
+
+#achievmentsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin: 50px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
