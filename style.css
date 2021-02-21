@@ -27,3 +27,8 @@ body {
 .movie_text span {
     color: orange;
 }
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
